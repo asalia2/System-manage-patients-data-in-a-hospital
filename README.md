@@ -1,2 +1,2 @@
-# System-to_manage-patients-data-in-a-hospital
+# System_to_manage-patients-data-in-a-hospital
 linked_list_and_radix_sort_algorithm 
